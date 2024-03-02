@@ -1,0 +1,11 @@
+body {
+    background-color: red;
+}
+h1{
+    color: rgb(55, 43, 43);
+    margin-left: 20px;
+}
+div {box-sizing: border-box;
+    color: darkblue;
+
+}
