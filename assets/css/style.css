@@ -1,11 +1,37 @@
-body {
-    background-color: red;
-}
-h1{
-    color: rgb(55, 43, 43);
-    margin-left: 20px;
-}
-div {box-sizing: border-box;
-    color: darkblue;
+.box{
+    background-color: lightgray;
+    width: 1300px;
+    height: 1200px;
+    margin: incline;
+ }
 
-}
+ body{
+     margin: 100px;
+     padding: 100px;
+     font-family: Arial, Helvetica, sans-serif;
+     background-color: darkslategray;
+     display:inline-block;
+ }
+
+ h1{
+     color:white;
+     margin: 0px;
+     padding-right: 10px;
+     display: inline;
+ }
+
+ h2{
+     color:white;
+     margin: 10px;
+     display:inline;
+ }
+ 
+ h3{
+     color: rgb(241, 42, 42);
+     margin-inline-start: 700px;
+ }
+ 
+ img{
+     width: 1200px;
+     height: 700px;
+ }
